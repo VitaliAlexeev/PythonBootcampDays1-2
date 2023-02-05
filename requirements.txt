@@ -1,7 +1,6 @@
 pandas
 numpy
 matplotlib
-plotly
 operator
 math
 os
