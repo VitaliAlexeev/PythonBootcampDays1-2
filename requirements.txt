@@ -1,6 +1,7 @@
 pandas
 numpy
-operator
+matplotlib
+plotly
 math
 os
 textwrap
